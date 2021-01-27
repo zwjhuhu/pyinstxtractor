@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-本程序改编自 PyInstaller Extractor v1.9 (Supports pyinstaller 3.3, 3.2, 3.1, 3.0, 2.1, 2.0)
+本程序改编自 PyInstaller Extractor v2.0
 Url    : [url]https://sourceforge.net/projects/pyinstallerextractor/[/url]
 使用了pyinstxtractor来解压pyinstaller打包的文件
 使用解压后的xtracted目录里面的__future.__.pyc文件头作为主程序文件头部分
